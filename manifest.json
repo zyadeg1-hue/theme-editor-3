@@ -1,0 +1,20 @@
+{
+    "name": "Theme Editor",
+    "version": "3.0.0",
+    "description": "A comprehensive theme customization tool for Spotify Desktop. Owned and maintained by DizAAAr.",
+    "main": "theme-editor.js",
+    "readme": "README.md",
+    "authors": [
+        {
+            "name": "DizAAAr",
+            "url": "https://github.com/zyadeg1-hue"
+        }
+    ],
+    "tags": [
+        "theme",
+        "customization",
+        "editor",
+        "css"
+    ],
+    "preview": "preview.png"
+}
